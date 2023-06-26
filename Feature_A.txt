@@ -1,1 +1,2 @@
-Sou uma feature
+Sou uma feature A
+Tenho uma segunda linha
